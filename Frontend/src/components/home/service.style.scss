@@ -1,0 +1,20 @@
+.services {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3em;
+    .service {
+        display: flex;
+        .icon {
+            color: #158c49;
+            font-size: 2.8em;
+        }
+        .text {
+            margin-left: 1em;
+            p {
+                margin-top: .4em;
+                font-size: .8em;
+                color: #292929;
+            }
+        }
+    }
+}

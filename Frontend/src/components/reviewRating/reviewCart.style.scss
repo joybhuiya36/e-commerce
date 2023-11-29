@@ -1,0 +1,50 @@
+.reviewCart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+
+    .right {
+      width: 4%;
+    }
+  
+    .left {
+      width: 30%;
+      text-align: left;
+      .picName {
+        display: flex;
+        align-items: center;
+        gap: .4em;
+        img {
+          width: 3em;
+          height: 3em;
+        }
+      }
+      &:first-child {
+        margin-right: 10px;
+      }
+  
+      h3 {
+        margin-bottom: 5px;
+      }
+  
+      p {
+        margin: 0;
+      }
+    }
+  
+    button {
+        border: none;
+        background-color: #27ad61;
+        color: white;
+        padding: 1em;
+        margin: .5em;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: #158c49;
+    }
+  }
+  

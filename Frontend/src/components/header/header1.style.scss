@@ -1,0 +1,20 @@
+.headerbtn {
+    margin-right: 2em;
+    .profileIcon {
+        display: flex;
+        gap: 2em;
+        align-items: center;
+        cursor: pointer; 
+    }
+    button {
+        border: none;
+        background-color: #27ad61;
+        color: white;
+        padding: 1em;
+        margin: .5em;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: #158c49;
+    }
+}

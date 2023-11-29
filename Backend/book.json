@@ -1,0 +1,211 @@
+[
+    {
+        "title": "The Book of Mystery",
+        "author": "John Doe",
+        "price": 14.99,
+        "genre": "Mystery",
+        "year": 2010,
+        "pages": 280,
+        "rating": 0,
+        "stock": 30,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781471183331/the-book-of-mysteries-9781471183331_lg.jpg"
+    },
+    {
+        "title": "Elon Musk",
+        "author": "Walter Isaacson",
+        "price": 9.99,
+        "genre": "Fantasy",
+        "year": 2015,
+        "pages": 400,
+        "rating": 0,
+        "stock": 20,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781398527492/elon-musk-9781398527492_lg.jpg"
+    },
+    {
+        "title": "It Starts with Us",
+        "author": "Robert Johnson",
+        "price": 19.99,
+        "genre": "Non-fiction",
+        "year": 2020,
+        "pages": 350,
+        "rating": 0,
+        "stock": 15,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781398518209/it-starts-with-us-9781398518209_lg.jpg"
+    },
+    {
+        "title": "Love Stories",
+        "author": "Emily Adams",
+        "price": 12.49,
+        "genre": "Romance",
+        "year": 2018,
+        "pages": 240,
+        "rating": 0,
+        "stock": 25,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982197681/the-many-lives-of-mama-love-9781982197681_lg.jpg"
+    },
+    {
+        "title": "The Earth Chronicles",
+        "author": "David Williams",
+        "price": 17.99,
+        "genre": "History",
+        "year": 2012,
+        "pages": 320,
+        "rating": 0,
+        "stock": 10,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781591431015/the-earth-chronicles-handbook-9781591431015_lg.jpg"
+    },
+    {
+        "title": "The Mirror's Tale",
+        "author": "Susan Brown",
+        "price": 11.99,
+        "genre": "Adventure",
+        "year": 2017,
+        "pages": 280,
+        "rating": 0,
+        "stock": 35,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781439113073/the-mirrors-tale-9781439113073_lg.jpg"
+    },
+    {
+        "title": "Eclipse",
+        "author": "Michael White",
+        "price": 8.99,
+        "genre": "Poetry",
+        "year": 2019,
+        "pages": 150,
+        "rating": 0,
+        "stock": 18,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781524875800/eclipse-9781524875800_lg.jpg"
+    },
+    {
+        "title": "The Fireside Cook Book",
+        "author": "Sarah Cook",
+        "price": 15.49,
+        "genre": "Cooking",
+        "year": 2016,
+        "pages": 200,
+        "rating": 0,
+        "stock": 22,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476743493/the-fireside-cook-book-9781476743493_lg.jpg"
+    },
+    {
+        "title": "They Stalk the Night",
+        "author": "James Black",
+        "price": 13.99,
+        "genre": "Thriller",
+        "year": 2014,
+        "pages": 290,
+        "rating": 0,
+        "stock": 28,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781787588592/they-stalk-the-night-9781787588592_lg.jpg"
+    },
+    {
+        "title": "The Anxiety Healer's Guide",
+        "author": "Alice Green",
+        "price": 10.99,
+        "genre": "Non-fiction",
+        "year": 2021,
+        "pages": 180,
+        "rating": 0,
+        "stock": 12,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982177829/the-anxiety-healers-guide-9781982177829_lg.jpg"
+    },
+    {
+        "title": "The Panic Fables",
+        "author": "Mark Turner",
+        "price": 16.99,
+        "genre": "Art",
+        "year": 2013,
+        "pages": 260,
+        "rating": 0,
+        "stock": 40,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781620555385/the-panic-fables-9781620555385_lg.jpg"
+    },
+    {
+        "title": "Tales of Witchcraft and Wonder",
+        "author": "Laura Hill",
+        "price": 18.49,
+        "genre": "Nature",
+        "year": 2022,
+        "pages": 310,
+        "rating": 0,
+        "stock": 8,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781644111703/tales-of-witchcraft-and-wonder-9781644111703_lg.jpg"
+    },
+    {
+        "title": "Strategy Is Destiny",
+        "author": "William Clark",
+        "price": 14.99,
+        "genre": "Business",
+        "year": 2011,
+        "pages": 270,
+        "rating": 0,
+        "stock": 19,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9780743226035/strategy-is-destiny-9780743226035_lg.jpg"
+    },
+    {
+        "title": "The Adventures of the Plott Family",
+        "author": "Linda Turner",
+        "price": 11.49,
+        "genre": "Travel",
+        "year": 2016,
+        "pages": 220,
+        "rating": 0,
+        "stock": 24,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781646046348/the-adventures-of-the-plott-family-a-decodable-stories-collection-9781646046348_lg.jpg"
+    },
+    {
+        "title": "The Galaxy Primes",
+        "author": "Peter Spacey",
+        "price": 13.99,
+        "genre": "Science Fiction",
+        "year": 2020,
+        "pages": 330,
+        "rating": 0,
+        "stock": 16,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781440543098/the-galaxy-primes-9781440543098_lg.jpg"
+    },
+    {
+        "title": "Mindfulness and the 12 Steps",
+        "author": "Eva Health",
+        "price": 12.99,
+        "genre": "Health",
+        "year": 2019,
+        "pages": 250,
+        "rating": 0,
+        "stock": 21,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781592859870/mindfulness-and-the-12-steps-9781592859870_lg.jpg"
+    },
+    {
+        "title": "The Harmony of the Spheres",
+        "author": "Sam Musician",
+        "price": 9.99,
+        "genre": "Music",
+        "year": 2018,
+        "pages": 190,
+        "rating": 0,
+        "stock": 29,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781620550960/the-harmony-of-the-spheres-9781620550960_lg.jpg"
+    },
+    {
+        "title": "The Political Ideas of St. Thomas Aquinas",
+        "author": "Alex Politics",
+        "price": 16.49,
+        "genre": "Politics",
+        "year": 2015,
+        "pages": 280,
+        "rating": 0,
+        "stock": 14,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781439105603/the-political-ideas-of-st-thomas-aquinas-9781439105603_lg.jpg"
+    },
+    {
+        "title": "Rumi: Tales of the Spirit",
+        "author": "Grace Fairytale",
+        "price": 8.49,
+        "genre": "Fantasy",
+        "year": 2017,
+        "pages": 120,
+        "rating": 0,
+        "stock": 33,
+        "image": "https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9798887620312/rumi-tales-of-the-spirit-9798887620312_lg.jpg"
+    }
+]

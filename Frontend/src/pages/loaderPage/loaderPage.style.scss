@@ -1,0 +1,16 @@
+.loaderBG {
+    text-align: center;
+    position: fixed;
+    background-color: rgb(255, 255, 255);
+    width: 100vw;
+    height: 100vh;
+    top: 0%;
+    z-index: 2;
+    opacity: 30%;
+}
+.spinner {
+    position: fixed;
+    left: 50vw;
+    top: 50vh;
+    z-index: 3;
+}

@@ -1,0 +1,78 @@
+.allbook {
+    display: flex;
+    .left {
+        margin: 4em 0 0 3em;
+        max-width: 20%;
+        min-width: 20%;
+        form {
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            background-color: #f5f5f5;
+            margin: 0 auto;
+        
+            p {
+            margin-bottom: 15px;
+        
+            label {
+                display: block;
+                margin-bottom: 5px;
+                font-size: .95em;
+                font-weight: bold;
+            }
+        
+            select,
+            input {
+                width: 100%;
+                padding: 8px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+            }
+        
+            button {
+            background-color :#27ad61;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            }
+        
+            button:hover {
+            background-color: #158c49;
+            }
+        }
+    }
+    .right {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        gap: 2em;
+        margin: 3em 3em;
+    }
+}
+.pageBtn {
+    text-align: center;
+
+    
+    span {
+        font-weight: 600;
+        color: #292929;
+        border: 2px solid #292929;
+        border-radius: 50%;
+        padding: 0 4px;
+    }
+    button {
+        border: none;
+        background-color: #27ad61;
+        color: white;
+        padding: 1em;
+        margin: .5em;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: #158c49;
+    }
+}

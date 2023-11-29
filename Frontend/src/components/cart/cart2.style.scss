@@ -1,0 +1,33 @@
+.mainDiv {
+    display: flex;
+    margin: 2em 40%;
+    .close {
+        margin-left: 3em;
+        cursor: pointer;
+        font-weight: 800;
+    }
+    .right {
+        margin-left: 2em;
+        p {
+            margin: .6em;
+        }
+        .plusminus
+        {
+            margin-top: 1em;
+            display: flex;
+            align-items: center;
+            gap: .7em;
+            button {
+                border: none;
+                background-color: #27ad61;
+                color: white;
+                padding: .07em .35em;
+                font-size: 1.7em;
+                cursor: pointer;
+            }
+            button:hover {
+                background-color: #158c49;
+            }
+        }
+    }
+}

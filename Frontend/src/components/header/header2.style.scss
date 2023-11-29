@@ -1,0 +1,24 @@
+.header2  {
+    background-color: #27ad61;
+    nav {
+        margin: 0 ;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        font-weight: 600;
+        a {
+            text-decoration: none;
+            color: white;
+            line-height: 3em;
+            width: 10%;
+            text-align: center;
+            font-size: .9em;
+        }
+        a:hover {
+            background-color: #158c49;
+            color: white;
+            text-decoration: underline;
+            text-underline-offset: .8em;
+        }
+    }
+}

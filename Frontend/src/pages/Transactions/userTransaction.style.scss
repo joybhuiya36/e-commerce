@@ -1,0 +1,54 @@
+.transPage {
+    text-align: center;
+    justify-content: center;
+    h2 {
+      margin: 2em 0 .4em 0;
+      text-decoration: underline;
+    }
+  
+    .allTransDiv {
+        display: inline-block;
+        justify-content: center;
+    }
+  
+    .oneTrans {
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 1em;
+      margin: 1em;
+      width: 300px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  
+      .bookDetails {
+        display: flex;
+        justify-content: center;
+        img {
+            width: 2.5em;
+          }
+        .nameQuantity {
+            width: 70%;
+            text-align: left;
+            margin-left: 1em;
+        }
+      }
+      div {
+        margin-bottom: 10px;
+  
+        
+  
+        h4 {
+          margin: .5em 0;
+        }
+  
+        p {
+          font-size: .9em;
+        }
+      }
+  
+      h3 {
+        margin: 10px 0;
+        color: #158c49;
+      }
+    }
+  }
+  

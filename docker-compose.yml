@@ -1,0 +1,30 @@
+version: "3.8"
+services:
+  mongo:
+    image: mongo
+    container_name: mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./database/db:/data/db
+
+  backend:
+    build:
+      context: ./Backend/
+    container_name: backend_bookstore
+    ports:
+      - "3000:3000"
+    links:
+      - mongo
+
+
+  frontend:
+    build:
+      context: ./Frontend/
+    container_name: frontend_bookstore
+    ports:
+      - "5173:5173"
+
+networks:
+  my-network:

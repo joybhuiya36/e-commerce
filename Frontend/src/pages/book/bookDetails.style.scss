@@ -1,0 +1,32 @@
+.bookDetails {
+    display: flex;
+    .left {
+        margin: 4em 8em;
+        padding-right: 8em;
+        border-right: 1px solid #292929;
+    }
+    .right {
+        margin: 6em 1em;
+        p {
+            margin-top: 1em;
+        }
+        .plusminus
+        {
+            margin-top: 2em;
+            display: flex;
+            align-items: center;
+            gap: .7em;
+            button {
+                border: none;
+                background-color: #27ad61;
+                color: white;
+                padding: .07em .35em;
+                font-size: 2em;
+                cursor: pointer;
+            }
+            button:hover {
+                background-color: #158c49;
+            }
+        }
+    }
+}

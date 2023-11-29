@@ -1,0 +1,76 @@
+.mainDivTrans {
+    text-align: center;
+    margin: 2em;
+    display: block;
+
+    .allTrans {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .trans {
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 1em 2em;
+        margin: 10px;
+        width: 40%;
+        background-color: #fff;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      
+        .picName {
+          display: flex;
+          align-items: center;
+          margin-bottom: 10px;
+      
+          img {
+            border-radius: 50%;
+            margin-right: 10px;
+            width: 3em;
+          }
+      
+          h3 {
+            margin: 0;
+          }
+        }
+      
+        .books {
+          display: flex;
+          align-items: center;
+          margin: 1.5em 7em;
+
+          .titleQuantity {
+            text-align: left;
+            margin-left: 1.5em;
+          }
+          img {
+            width: 2em;
+            margin-right: 10px;
+          }
+          
+          p {
+            margin: .6em 0;
+            font-size: .9em;
+          }
+
+          div {
+            flex-grow: 1;
+      
+            h4 {
+              margin: 0;
+            }
+          }
+        }
+      
+        hr {
+          margin: 10px 0;
+          border: none;
+          border-top: 1px solid #ddd;
+        }
+      
+        h3 {
+          margin: 0;
+          color: #158c49;
+        }
+      }
+  }
+  

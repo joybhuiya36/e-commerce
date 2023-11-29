@@ -1,0 +1,14 @@
+.checkoutbtn {
+    text-align: center;
+    button {
+        background-color: #292929;
+        color: white;
+        border: none;
+        width: 14em;
+        height: 3em;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: #158c49;
+    }
+}

@@ -1,0 +1,44 @@
+.all-users-container {
+    text-align: center;
+    justify-content: center;
+    margin: 2em;
+ 
+    h2 {
+       font-size: 24px;
+       margin-bottom: 10px;
+    }
+ 
+    .users-table {
+       margin: 2em auto;
+       border-collapse: collapse;
+       width: 100%;
+ 
+       th, td {
+          border: 1px solid #ddd;
+          padding: 8px;
+          text-align: left;
+       }
+ 
+       th {
+          background-color: #f2f2f2;
+       }
+ 
+       .edit-input {
+          width: 80%;
+          padding: 5px;
+       }
+ 
+       .save-button, .cancel-button, .edit-button, .delete-button {
+          background-color: #27ad61;
+          color: #fff;
+          padding: 8px;
+          cursor: pointer;
+          border: none;
+          margin-right: 5px;
+          &:hover {
+            background-color: #158c49;
+          }
+       }
+    }
+ }
+ 

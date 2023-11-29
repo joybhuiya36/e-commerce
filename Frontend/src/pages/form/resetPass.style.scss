@@ -1,0 +1,25 @@
+.resetDiv {
+    text-align: center;
+    h2 {
+        margin: 1.5em;
+    }
+    label {
+        font-weight: 600;
+    }
+    input {
+        width: 16em;
+        height: 2em;
+    }
+    button {
+        border: none;
+        background-color: #27ad61;
+        color: white;
+        padding: .8em;
+        margin: .5em;
+        width: 16em;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: #158c49;
+    }
+}

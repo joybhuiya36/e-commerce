@@ -1,0 +1,45 @@
+.cart {
+    width: 13em;
+    box-shadow: 0px 0px 7px black;
+    text-align: center;
+    border-radius: 6px;
+    // align-items: center;
+    img {
+        width: 13em;
+    }
+    h4 {
+        margin: .8em;
+    }
+    .btn {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        button {
+            border: none;
+            background-color: #27ad61;
+            color: white;
+            padding: .8em;
+            margin: .5em;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #158c49;
+        }
+        .editbtn {
+            color:  #27ad61;
+            font-size: 2em;
+            cursor: pointer;
+        }
+        .editbtn:hover {
+            color: #158c49;
+        }
+        .dltbtn {
+            color:  #27ad61;
+            font-size: 1.6em;
+            cursor: pointer;
+        }
+        .dltbtn:hover {
+            color: #158c49;
+        }
+    }
+}
